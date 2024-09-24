@@ -1,7 +1,7 @@
 #!/bin/bash
 # Edition : Stable Edition V3.0
-# Auther  : AGELLLS
-# (C) Copyright 2023
+# Auther  : IJUL
+# (C) Copyright 2024
 # =========================================
 
 red='\e[1;31m'

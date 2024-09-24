@@ -1,13 +1,13 @@
 #!/bin/sh
-REPOS="https://github.com/Agellls/servervps/raw/master/"
+REPOS="https://github.com/raynaldizf/servervps/raw/master/"
 ns_domain_cloudflare() {
-	DOMAIN="agellls.live"
+	DOMAIN="panjulvps.my.id"
 	DOMAIN_PATH=$(cat /etc/xray/domain)
 	SUB=$(tr </dev/urandom -dc a-z0-9 | head -c7)
-	SUB_DOMAIN=${SUB}."agellls.live"
+	SUB_DOMAIN=${SUB}."panjulvps.my.id"
 	NS_DOMAIN=ns.${SUB_DOMAIN}
-	CF_ID=agilfajar33@gmail.com
-        CF_KEY=660a7e9a654655014cf60f05bd66c26925102
+	CF_ID=raynaldizoel@gmail.com
+        CF_KEY=625ad7ba1e2099c3aaceead1963eb9e44b77a
 	set -euo pipefail
 	IP=$(wget -qO- ipinfo.io/ip)
 	echo "Updating DNS NS for ${NS_DOMAIN}..."

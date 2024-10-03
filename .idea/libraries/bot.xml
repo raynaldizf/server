@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="bot">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/bot/bot.zip!/" />
+      <root url="jar://$PROJECT_DIR$/bot/kyt.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

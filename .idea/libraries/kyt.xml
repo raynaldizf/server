@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="kyt">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/bot/kyt/kyt.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

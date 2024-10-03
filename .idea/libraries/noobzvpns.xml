@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="noobzvpns">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/noobzvpns.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
